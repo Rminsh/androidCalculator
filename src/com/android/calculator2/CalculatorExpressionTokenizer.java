@@ -18,9 +18,7 @@ package com.android.calculator2;
 
 import android.content.Context;
 
-import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
-import java.text.NumberFormat;
 import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
